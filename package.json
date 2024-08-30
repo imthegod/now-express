@@ -1,7 +1,7 @@
 {
   "name": "now-express",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is a demo for an article.\r Article URL will be updated once published.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -11,7 +11,7 @@
   "author": "William Imoh",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.19.2",
     "nodemon": "^1.19.1"
   }
 }
