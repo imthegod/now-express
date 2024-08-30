@@ -12,7 +12,7 @@ app.get("/", (req, res) => {
 });
 
 // Mock API
-app.get("/users", (req, res) => {
+app.get("/users", (req, res) => { 
   res.json([
     { name: "William", location: "Abu Dhabi" },
     { name: "Chris", location: "Vegas" }
